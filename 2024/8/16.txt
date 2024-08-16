@@ -1,6 +1,6 @@
 => Numbers + typing [X]
-=> Advancing gamePlatform project []
+=> Advancing gamePlatform project [X]
     => Implementing the correct way the chart
         => Thinking is making width scrollable.
-=> Nand2tetris []
+=> Nand2tetris [?]
 

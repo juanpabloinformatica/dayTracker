@@ -1,4 +1,4 @@
-=> Numbers + typing []
-=> Advancing gamePlatform project []
-=> Nand2tetris []
+=> Numbers + typing [X]
+=> Advancing gamePlatform project [X]
+=> Nand2tetris [X]
 
