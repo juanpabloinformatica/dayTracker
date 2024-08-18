@@ -1,6 +1,7 @@
 => Advancing project
     => IaC
-        => Dockerfiles
+        => Dockerfiles [x] -> still missing some
+            
         => Kubernetes
 => Nand2tetris not today
 => PFE
