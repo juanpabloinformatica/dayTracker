@@ -1,0 +1,10 @@
+=> Advancing project
+    => IaC
+        => Dockerfiles
+        => Kubernetes
+=> Nand2tetris not today
+=> PFE
+    => Rewrite with previous ideas
+    => Consider ideas from tutor
+    => Energy consumption
+
