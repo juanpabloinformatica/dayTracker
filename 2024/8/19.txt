@@ -1,0 +1,6 @@
+=> Advancing game platform
+    => Dockerfiles
+        => Cors ====> Nginx ???
+    => Kubernetes
+    => GCP
+
