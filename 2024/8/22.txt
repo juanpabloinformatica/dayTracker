@@ -1,0 +1,5 @@
+=> Advancing gamePlatform
+    => Read about NGINX
+        => Reverse Proxy
+        => Examples where NGINX were used
+        => Websocket + nginx
