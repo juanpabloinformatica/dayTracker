@@ -1,0 +1,7 @@
+=> Advance gamePlatform
+    => Check how to redirect query params url
+    => try to understand that part
+=> Think about next ideas
+    => C++
+    => Data engineer
+
