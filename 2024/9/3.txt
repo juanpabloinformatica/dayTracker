@@ -1,6 +1,9 @@
 => Advance gamePlatform
-    => Check how to redirect query params url
-    => try to understand that part
+    => Check how to redirect query params url [X]
+        -> This was an error i made
+            it was been passed with the query params
+        -> Needed to be added proxy_buffering off
+    => local test environment done with docker && docker compose
 => Think about next ideas
     => C++
     => Data engineer
