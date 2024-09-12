@@ -1,0 +1,5 @@
+Today
+=> Still continue learning c++
+=> Check multithreding as following step
+=> Finish ALU implementation nand2tetris
+=> Check gamePlatform to think following steps;

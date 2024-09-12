@@ -1,0 +1,6 @@
+=> Keep reading c++ book
+    => Test each thing to check my understanding
+    => Watch some videos if a concept is not clear
+    => Understand concepts as threads in c++
+    => Think of a project that involves this concept
+
