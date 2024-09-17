@@ -1,0 +1,3 @@
+-> Still reading about c++
+    => Play with the std library
+    => Still lookin the book
