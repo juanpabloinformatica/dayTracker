@@ -1,0 +1,5 @@
+-> Starting ensimag lecteur video
+    -> Read sujet
+    -> Read doc provided by README
+    -> Read code (try to understand api)
+-> Nand2tetris ALU
