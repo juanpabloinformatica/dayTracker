@@ -14,10 +14,9 @@ Description, of the daily study work i will develop each day.
     - Tuesdays -> 1:30 ensimag projects[0] | dsa[1]
     - Wednesdays -> 1:30 ensimag projects[0] | nand2tetris[2]
     - Thursdays -> 1:30 ensimag projects[0] | dsa[1]
-    - Fridays -> 1:30 ensimag projects[0] | Review ocaml[?]
+    - Fridays -> 1:30 ensimag projects[0] | nand2tetris[2]
     - Samedi -> 1:30 ensimag pjrojects[0] | nand2tetris[2]
-    - Dimanche -> 1:30 ensimag projects[0] | nand2tetris[2]
-
+    - Dimanche -> Ensimag projects[0]
 
     - Additionals
 
@@ -26,6 +25,7 @@ Description, of the daily study work i will develop each day.
       - C++ [4]
       - Operating systems [5]
       - Improve tools such as nvim, tmux, keytyping and keep checking for learning
+      - Ocaml comes after i think is not that necessary right now
 
 - For
 
@@ -48,4 +48,3 @@ Description, of the daily study work i will develop each day.
   - This will take a long period of time.
   - I would like to have the possibility to speak in any single layer of computer science with a good understanding
   - Master my profession
-
