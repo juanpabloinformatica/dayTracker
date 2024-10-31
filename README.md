@@ -15,7 +15,7 @@ Description, of the daily study work i will develop each day.
     - Wednesdays -> 1:30 ensimag projects[0] | nand2tetris[2]
     - Thursdays -> 1:30 ensimag projects[0] | dsa[1]
     - Fridays -> 1:30 ensimag projects[0] | nand2tetris[2]
-    - Samedi -> 1:30 ensimag pjrojects[0] | nand2tetris[2]
+    - Samedi -> 1:30 ensimag pojects[0] | nand2tetris[2]
     - Dimanche -> Ensimag projects[0]
 
     - Additionals
