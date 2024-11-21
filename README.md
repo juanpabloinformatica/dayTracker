@@ -48,3 +48,7 @@ Description, of the daily study work i will develop each day.
   - This will take a long period of time.
   - I would like to have the possibility to speak in any single layer of computer science with a good understanding
   - Master my profession
+
+- Ideas
+  - Considering learning about low level programming
+  - Read and do all the exercices of the book -> c the hard way
