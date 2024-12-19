@@ -52,3 +52,6 @@ Description, of the daily study work i will develop each day.
 - Ideas
   - Considering learning about low level programming
   - Read and do all the exercices of the book -> c the hard way
+  - Today I was thinking in pulishing my git skills, so maybe is good
+    to spend some time doing this katas. 
+    link: https://github.com/eficode-academy/git-katas
