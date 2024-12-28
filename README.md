@@ -1,8 +1,60 @@
-# dayTracker
+# DayTracker
 
 Description, of the daily study work i will develop each day.
 
-# Desired roadmap
+## Roadmap
+
+ ```mermaid
+  stateDiagram-v2
+      direction LR
+      state Basics {
+        direction TB
+          DataStructure  
+        ComputerFoundations
+        EnsimagProjects
+      }
+      [*] --> Basics
+      Basics --> FunctionalProgramming
+      FunctionalProgramming --> DiscreteMaths 
+      DiscreteMaths --> Algorithms
+      Algorithms --> [*]
+  ```
+
+- ### Roadmap components
+
+  - Basics
+    - DataStructure: Implement the basic data structures:  
+      - dynamicArray
+      - Stack
+      - Queue
+      - LinkedList
+      - Hashmap
+      - Binary search tree
+      - Graphs
+
+     by only using recursion, so it means no loop in the whole project, just for the testing suite,  using generics in C by the (void*) functionalities and trying to make it a little bit OOP.
+
+    - ComputerFoundations: Following the autoguided course nand2tetris both first and second part, this teach from the logic gates until a functional computer.
+
+
+
+    - EnsimagProjects: I wil try the most interesting projects give by my old school, One of the best in the world for sure. SEPC projects, Compiler and OS advanced are going to be my focus.
+
+  - Functional programming: I will follow the autoguided course OCaml Programming: Correct + Efficient + Beautiful, This will teach a better way to write code but at the same time a different way to solve problems, that will help me at the moment of understanding different recursive algorithms.
+  - DiscreteMaths: I will follow an MIT open course autoguided as well, this will help me with proof theory and other stuff needed to understand algorithms.
+
+  - Algorithms: After following all the previous courses, I think I will be in the capacity to read, and implement all what is explained in the book even the more complex algorithms.
+
+
+## Areas of study
+
+- Computer foundations
+- Data structure and algorithms
+- Discrete maths
+
+## Daily work schedule
+
+### Basics
 
 - Was decided to organize my study schedule
 
@@ -10,48 +62,97 @@ Description, of the daily study work i will develop each day.
   - Everything we start we finish it
   - So schedule will be the following:
 
-    - Mondays -> 1:30 ensimag projects[0] | nand2tetris[2]
-    - Tuesdays -> 1:30 ensimag projects[0] | dsa[1]
-    - Wednesdays -> 1:30 ensimag projects[0] | nand2tetris[2]
-    - Thursdays -> 1:30 ensimag projects[0] | dsa[1]
-    - Fridays -> 1:30 ensimag projects[0] | nand2tetris[2]
-    - Samedi -> 1:30 ensimag pojects[0] | nand2tetris[2]
+    - Mondays ->  nand2tetris[2]
+    - Tuesdays ->  dsa[1]
+    - Wednesdays ->  nand2tetris[2]
+    - Thursdays ->  dsa[1]
+    - Fridays ->  nand2tetris[2]
+    - Samedi ->  nand2tetris[2]
     - Dimanche -> Ensimag projects[0]
 
-    - Additionals
+### FunctionalProgramming
 
-      - Improve c++ knowledge
-      - I will writte the os with c++
-      - C++ [4]
-      - Operating systems [5]
-      - Improve tools such as nvim, tmux, keytyping and keep checking for learning
-      - Ocaml comes after i think is not that necessary right now
+ This need to be after finishing **Basics** for that
+ reason is not defined yet.
 
-- For
+### DiscreteMaths
 
-  - [0]
-    - Check mail with ensimag roadmap
-  - [1]
-    - link: https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
-  - [2]
-    - pt_1_link: https://www.youtube.com/watch?v=LqirVc5SlW0&list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI&index=1
-    - pt_2_link: https://www.youtube.com/watch?v=KBTg0ju4rxM&list=PLrDd_kMiAuNmllp9vuPqCuttC1XL9VyVh
-  - [?]
-    - Link: https://cs3110.github.io/textbook/cover.html
-  - [4]
-    - Link: https://www.youtube.com/watch?v=FIroM06V2MA&list=PL-h0BZdG_K4kAmsfvAik-Za826pNbQd0d
-  - [5]
-    - Link: https://www.youtube.com/watch?v=dv4mXBsv6TI&list=PLacuG5pysFbDQU8kKxbUh4K5c1iL5_k7k
+ This need to be after finishing **FunctionalProgramming** for that
+ reason is not defined yet.
 
-- Expectations
+### Algorithms
 
-  - This will take a long period of time.
-  - I would like to have the possibility to speak in any single layer of computer science with a good understanding
-  - Master my profession
+ This need to be after finishing **DiscreteMaths** for that
+ reason is not defined yet.
 
-- Ideas
-  - Considering learning about low level programming
-  - Read and do all the exercices of the book -> c the hard way
-  - Today I was thinking in pulishing my git skills, so maybe is good
-    to spend some time doing this katas. 
-    link: https://github.com/eficode-academy/git-katas
+## Resources
+
+- Basics
+  - DataStructure
+    - Internet: Look articles, wikipedia, and geek for geeks only to follow theory. 
+
+  - ComputerFoundations
+      - Part1: <https://www.youtube.com/watch?v=LqirVc5SlW0&list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI>
+
+      - Part2 : <https://www.youtube.com/watch?v=KBTg0ju4rxM&list=PLrDd_kMiAuNmllp9vuPqCuttC1XL9VyVh>
+
+      - Website: <https://www.nand2tetris.org/>
+
+
+  - EnsimagProjects
+    - Reading ensimag guidelines for each project. And internet in general.
+
+- FunctionalProgramming
+  - Website: <https://cs3110.github.io/textbook/cover.html#>
+- DiscreteMaths
+  - Website: <https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/course/>
+  - Book: MITOPENCOURSE -- Mathematics for computer science.
+
+- Algorithms
+  - Book: Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.
+
+
+
+
+## Progress
+
+- Basics
+  - DataStructure
+    - My repository (dsa): <https://github.com/juanpabloinformatica/dsa>
+
+  - ComputerFoundations
+    - My repository (nand2tetris): <https://github.com/juanpabloinformatica/nand2tetris>
+
+  - EnsimagProjects
+    - My repository (ensimagProjects): <https://github.com/juanpabloinformatica/ensimagProjects>
+- FunctionalProgramming
+  - This need to be after finishing **Basics** for that reason is not defined yet.
+- DiscreteMaths
+  - This need to be after finishing **FunctionalProgramming** for that reason is not defined yet.
+- Algorithms
+  - This need to be after finishing **DiscreteMaths** for that reason is not defined yet.
+
+## Expectations
+
+- This will take a long period of time.
+- I would like to have the possibility to speak in any single layer of computer science with a good understanding
+- Master my profession
+
+## Ideas
+
+- Considering learning about low level programming
+- Read and do all the exercices of the book -> c the hard way
+- Today I was thinking in pulishing my git skills, so maybe is good
+    to spend some time doing this katas.
+    link: <https://github.com/eficode-academy/git-katas>
+- I was thinking in taking notes of everything and maybe put it in
+    a book like the ocaml one. If I do follow this.
+    link: <https://myst-parser.readthedocs.io/en/latest/>
+
+- Improve c++ knowledge
+- I will writte the os with c++
+- C++ [4]
+- Operating systems [5]
+- Improve tools such as nvim, tmux, keytyping and keep checking for learning
+- Ocaml comes after i think is not that necessary right now
+
