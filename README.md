@@ -36,15 +36,12 @@ Description, of the daily study work i will develop each day.
 
     - ComputerFoundations: Following the autoguided course nand2tetris both first and second part, this teach from the logic gates until a functional computer.
 
-
-
     - EnsimagProjects: I wil try the most interesting projects give by my old school, One of the best in the world for sure. SEPC projects, Compiler and OS advanced are going to be my focus.
 
   - Functional programming: I will follow the autoguided course OCaml Programming: Correct + Efficient + Beautiful, This will teach a better way to write code but at the same time a different way to solve problems, that will help me at the moment of understanding different recursive algorithms.
   - DiscreteMaths: I will follow an MIT open course autoguided as well, this will help me with proof theory and other stuff needed to understand algorithms.
 
   - Algorithms: After following all the previous courses, I think I will be in the capacity to read, and implement all what is explained in the book even the more complex algorithms.
-
 
 ## Areas of study
 
@@ -67,7 +64,7 @@ Description, of the daily study work i will develop each day.
     - Wednesdays ->  nand2tetris[2]
     - Thursdays ->  dsa[1]
     - Fridays ->  nand2tetris[2]
-    - Samedi ->  nand2tetris[2]
+    - Samedi ->  dsa[1]
     - Dimanche -> Ensimag projects[0]
 
 ### FunctionalProgramming
@@ -89,15 +86,14 @@ Description, of the daily study work i will develop each day.
 
 - Basics
   - DataStructure
-    - Internet: Look articles, wikipedia, and geek for geeks only to follow theory. 
+    - Internet: Look articles, wikipedia, and geek for geeks only to follow theory.
 
   - ComputerFoundations
-      - Part1: <https://www.youtube.com/watch?v=LqirVc5SlW0&list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI>
+    - Part1: <https://www.youtube.com/watch?v=LqirVc5SlW0&list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI>
 
-      - Part2 : <https://www.youtube.com/watch?v=KBTg0ju4rxM&list=PLrDd_kMiAuNmllp9vuPqCuttC1XL9VyVh>
+    - Part2 : <https://www.youtube.com/watch?v=KBTg0ju4rxM&list=PLrDd_kMiAuNmllp9vuPqCuttC1XL9VyVh>
 
-      - Website: <https://www.nand2tetris.org/>
-
+    - Website: <https://www.nand2tetris.org/>
 
   - EnsimagProjects
     - Reading ensimag guidelines for each project. And internet in general.
@@ -110,9 +106,6 @@ Description, of the daily study work i will develop each day.
 
 - Algorithms
   - Book: Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.
-
-
-
 
 ## Progress
 
