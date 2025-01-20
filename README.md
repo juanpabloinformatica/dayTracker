@@ -65,7 +65,7 @@ Description, of the daily study work i will develop each day.
     - Thursdays ->  dsa[1]
     - Fridays ->  nand2tetris[2]
     - Samedi ->  dsa[1]
-    - Dimanche -> Ensimag projects[0]
+    - Dimanche -> Ensimag projects[0] ~ not been done right now!!
 
 ### FunctionalProgramming
 
