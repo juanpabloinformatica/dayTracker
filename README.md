@@ -134,13 +134,18 @@ Description, of the daily study work i will develop each day.
 ## Ideas
 
 - Considering learning about low level programming
-- Read and do all the exercices of the book -> c the hard way
+- Read and do all the exercices of the book -> c the hard way --> **I need to work more on this**
 - Today I was thinking in pulishing my git skills, so maybe is good
     to spend some time doing this katas.
     link: <https://github.com/eficode-academy/git-katas>
 - I was thinking in taking notes of everything and maybe put it in
     a book like the ocaml one. If I do follow this.
     link: <https://myst-parser.readthedocs.io/en/latest/>
+
+- I need to start doing a brief summary of each chapter that I have done
+  in nand2tetris, I have taken a lot of different approaches I am conscious that
+  are not the more efficient but in this moment I am looking for developping thinking 
+  reasoning and have things done by my owns means.
 
 - Improve c++ knowledge
 - I will writte the os with c++
