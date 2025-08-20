@@ -65,7 +65,7 @@ Description, of the daily study work i will develop each day.
     - Thursdays ->  dsa[1]
     - Fridays ->  nand2tetris[2]
     - Samedi ->  dsa[1]
-    - Dimanche -> Ensimag projects[0]
+    - Dimanche ->  Linux | Ensimag projects[0]
 
 ### FunctionalProgramming
 
@@ -159,6 +159,9 @@ Description, of the daily study work i will develop each day.
 - Operating systems [5]
 - Improve tools such as nvim, tmux, keytyping and keep checking for learning
 - Ocaml comes after i think is not that necessary right now
+- Automatising: 
+  - Studying sessions script
+  - Video recording uploading
 
 # Description
 - Today. I will try to explain what are the planning now, I don't think give this up.
